@@ -69,6 +69,7 @@ function Home(props) {
           <Text style={styles.temp}>20°</Text>
         </View>
       </View>
+
       <View style={styles.menu2}>
         <View style={styles.row}>
           <View style={styles.name}>
